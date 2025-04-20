@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\25737\Desktop\project\FOC\FOC_V1\PCB1.PcbDoc
+Date         : 2025/2/15
+Time         : 18:44:37
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 322
+    Connections routed, 322
+    Connections remaining, 0
+count : 4
